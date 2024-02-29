@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/setseries/news-category-dataset
+
+https://huggingface.co/spaces/samueltatsu/News_Categorizer
+
+https://drive.google.com/file/d/1wD44UpIBkD2TMlr0zTnVzJn-_kS10XsV/view?usp=drive_link
